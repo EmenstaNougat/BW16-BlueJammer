@@ -1,7 +1,7 @@
 <h1 align="center">BW16-BlueJammer - by @emensta</h1>
 
 <p align="center">
-  <img src="https://dwdwpld.pages.dev/ESP32-BlueJammerBy@emensta.jpg" alt="BW16-BlueJammer" width="600">
+  <img src="" alt="BW16-BlueJammer" width="600">
 </p>
 
 <p align="center">
